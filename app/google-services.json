@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "496210639271-94oc6gubaqtco5m4bi3vgqam17qgnj8b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "execube.io.projectmurphy",
+            "certificate_hash": "c380dc08a9f077a03a22ea8261e1e4c05e11d6c7"
+          }
+        },
+        {
           "client_id": "496210639271-vuaj9e3ioohtdholh1lqsouq5b6prmv2.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
