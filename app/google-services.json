@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "496210639271",
+    "firebase_url": "https://project-murphy.firebaseio.com",
+    "project_id": "project-murphy",
+    "storage_bucket": "project-murphy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496210639271:android:4a4f3734861950fb",
+        "android_client_info": {
+          "package_name": "execube.io.projectmurphy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "496210639271-vuaj9e3ioohtdholh1lqsouq5b6prmv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "execube.io.projectmurphy",
+            "certificate_hash": "e7ccfd4098dc5faee44e1ca3cc9822798fa10b1b"
+          }
+        },
+        {
+          "client_id": "496210639271-k3gudq47ga9h43g92ae4cbh1k82ij9v2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD248e07YkS_R1Rrz9jCIkiVSpjR30rAd8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "496210639271-k3gudq47ga9h43g92ae4cbh1k82ij9v2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
